@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Documents\GitHub\ID-Card-Test\身份证合法验证\身份证合法验证\bin\Debug\身份证合法验证.exe.config
+C:\Users\Lenovo\Documents\GitHub\ID-Card-Test\身份证合法验证\身份证合法验证\bin\Debug\身份证合法验证.exe
+C:\Users\Lenovo\Documents\GitHub\ID-Card-Test\身份证合法验证\身份证合法验证\bin\Debug\身份证合法验证.pdb
+C:\Users\Lenovo\Documents\GitHub\ID-Card-Test\身份证合法验证\身份证合法验证\obj\Debug\身份证合法验证.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\ID-Card-Test\身份证合法验证\身份证合法验证\obj\Debug\身份证合法验证.Form1.resources
+C:\Users\Lenovo\Documents\GitHub\ID-Card-Test\身份证合法验证\身份证合法验证\obj\Debug\身份证合法验证.Properties.Resources.resources
+C:\Users\Lenovo\Documents\GitHub\ID-Card-Test\身份证合法验证\身份证合法验证\obj\Debug\身份证合法验证.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\GitHub\ID-Card-Test\身份证合法验证\身份证合法验证\obj\Debug\身份证合法验证.exe
+C:\Users\Lenovo\Documents\GitHub\ID-Card-Test\身份证合法验证\身份证合法验证\obj\Debug\身份证合法验证.pdb
